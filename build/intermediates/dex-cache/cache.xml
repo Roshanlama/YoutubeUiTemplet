@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/havoc/AndroidStudioProjects/CustomBottomNavigationTemplet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/havoc/AndroidStudioProjects/CustomBottomNavigationTemplet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ddc17d3767f1e9afe1491859793ff45800699d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/havoc/AndroidStudioProjects/CustomBottomNavigationTemplet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cec86a21c726b919c2586681e673b6b658298a4">
+        <dex dex="/home/havoc/AndroidStudioProjects/CustomBottomNavigationTemplet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb29e17f4dd53178b1ded30fce31f254dc9b1a7c/classes.dex" />
+    </item>
+
+</items>
